@@ -1,16 +1,15 @@
+import data from '../data/users.json';
+import { CardItem } from './CardItem/CardItem';
+import style from './App.module.css';
+
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      React homework template
-    </div>
+    <section>
+      <ul className={style.container}>
+        {data.users.map(user => (
+          <CardItem key={user.id} user={user} />
+        ))}
+      </ul>
+    </section>
   );
 };

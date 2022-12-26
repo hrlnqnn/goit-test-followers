@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Husky",
+      "tweets": 111,
+      "followers": 111647,
+      "avatar": "https://img.icons8.com/external-justicon-flat-justicon/512/external-dog-dog-and-cat-justicon-flat-justicon-8.png"
+    },
+    {
+      "id": 2,
+      "user": "Labrador Retriever",
+      "tweets": 234,
+      "followers": 12648,
+      "avatar": "https://img.icons8.com/external-justicon-flat-justicon/512/external-dog-dog-and-cat-justicon-flat-justicon-1.png"
+    },
+    {
+      "id": 3,
+      "user": "Boxer",
+      "tweets": 567,
+      "followers": 126852,
+      "avatar": "https://img.icons8.com/external-justicon-flat-justicon/512/external-dog-dog-and-cat-justicon-flat-justicon-14.png"
+    },
+    {
+      "id": 4,
+      "user": "Yorkshire Terrier",
+      "tweets": 555,
+      "followers": 123545,
+      "avatar": "https://img.icons8.com/external-justicon-flat-justicon/512/external-dog-dog-and-cat-justicon-flat-justicon-11.png"
+    },
+    {
+      "id": 5,
+      "user": "German Shepherd",
+      "tweets": 496,
+      "followers": 456723,
+      "avatar": "https://img.icons8.com/external-justicon-flat-justicon/512/external-dog-dog-and-cat-justicon-flat-justicon-10.png"
+    },
+    {
+      "id": 6,
+      "user": "Russian Toy Terrier",
+      "tweets": 415,
+      "followers": 126546,
+      "avatar": "https://img.icons8.com/external-justicon-flat-justicon/512/external-dog-dog-and-cat-justicon-flat-justicon-5.png"
+    },
+    {
+      "id": 7,
+      "user": "Rottweiler",
+      "tweets": 255,
+      "followers": 12355,
+      "avatar": "https://img.icons8.com/external-justicon-flat-justicon/512/external-dog-dog-and-cat-justicon-flat-justicon-9.png"
+    },
+    {
+      "id": 8,
+      "user": "Pomeranian dog",
+      "tweets": 155,
+      "followers": 1235689,
+      "avatar": "https://img.icons8.com/external-justicon-flat-justicon/512/external-dog-dog-and-cat-justicon-flat-justicon-6.png"
+    }
+  ]
+}
